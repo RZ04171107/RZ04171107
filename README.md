@@ -50,7 +50,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="left">
-<a href="#"><img alt="Website" src="https://img.shields.io/badge/Website-www.stillworkingonit.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://ruanqin-zhao.netlify.app"><img alt="Website" src="https://img.shields.io/badge/Website-myPage-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/ruanqin-zhao/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ruanqin%20Zhao-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:ingridcyou@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ingridcyou@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
